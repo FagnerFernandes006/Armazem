@@ -1,0 +1,13 @@
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.exe
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.deps.json
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.runtimeconfig.dev.json
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.dll
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\bin\Debug\netcoreapp3.1\Armazem.pdb
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.csprojAssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.dll
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.pdb
+C:\Users\Fagner Fernandes\source\repos\Armazem\Armazem\obj\Debug\netcoreapp3.1\Armazem.genruntimeconfig.cache
